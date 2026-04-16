@@ -28,5 +28,6 @@ Please notice that additional setup is required if you are not using the virtual
     pip install numpy matplotlib py3Dmol salted ase ipywidgets scipy scikit-learn h5py
     ```
 
-- Finally, in folder DeepH-tutorial there is a minimal example of the workings of DeepH with FHI-aims data, also for the water monomer and in order to learn the Hamiltonian. This is meant just as an example in case you are curious (it is not written as a tutorial). You need to install DeepH, following the instructions in their webpage, and read instructions in the folder.
+- Finally, in folder DeepH-tutorial there is a minimal example of the workings of DeepH with FHI-aims data, also for the water monomer and in order to learn the Hamiltonian. This is meant just as an example in case you are curious (it is not written as a tutorial). You need to install DeepH, following the instructions in their webpage, and read instructions in the folder
+.
 
